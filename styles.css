@@ -1,0 +1,30 @@
+body {
+	background-color: lightblue;
+	font-family: fantasy;
+}
+
+h1, h2 {
+	font-size: 25px;
+}
+
+p {
+	color: green;
+}
+
+.ol-list {
+	background-color: lightgreen;
+	font-family: cursive;
+}
+
+.ul-list {
+	background-color: lightcoral;
+	font-family: monospace;
+}
+
+header, footer {
+	text-align: center;
+}
+
+section {
+	border: 2px red dotted;
+}
